@@ -36,44 +36,34 @@ Here's a little bit about me:
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="center">
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
-    <br><sub><b><span style="color:#808080;">JavaScript</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js">
-    <br><sub><b><span style="color:#808080;">Node.js</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">
-    <br><sub><b><span style="color:#808080;">PHP</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">
-    <br><sub><b><span style="color:#808080;">Java</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5">
-    <br><sub><b><span style="color:#808080;">HTML5</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3">
-    <br><sub><b><span style="color:#808080;">CSS3</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap">
-    <br><sub><b><span style="color:#808080;">Bootstrap</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
-    <br><sub><b><span style="color:#808080;">MySQL</span></b></sub>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma">
-    <br><sub><b><span style="color:#808080;">Figma</span></b></sub>
-  </span>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
 </p>
 
 
