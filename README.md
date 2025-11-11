@@ -2,7 +2,7 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
 <h1 align="center">Hello everyone, I'm Andrei Ochangco</h1>
-<h3 align="center">I'm a Information Technology student at Saint Louis College from Philippines.</h3>
+<h3 align="center">I'm an Information Technology student at Saint Louis College from the Philippines.</h3>
 
 <img align="right" alt="Coding Animation" width="400" src="img/type.gif"> 
 <!-- Make sure 'type.gif' exists in your repository or replace the src with a valid URL -->
@@ -120,9 +120,9 @@ Here's a little bit about me:
 ## 🚀 My Contributions Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreiOchangco/AndreiOchangco/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreiOchangco/AndreiOchangco/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreiOchangco/AndreiOchangco/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🚀 My Github Stats
