@@ -37,44 +37,44 @@ Here's a little bit about me:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>
-    <sub><b><span style="color:gray;">JavaScript</span></b></sub>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br>
-    <sub><b><span style="color:gray;">Node.js</span></b></sub>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br>
-    <sub><b><span style="color:gray;">PHP</span></b></sub>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
-    <sub><b><span style="color:gray;">Java</span></b></sub>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>
-    <sub><b><span style="color:gray;">HTML5</span></b></sub>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br>
-    <sub><b><span style="color:gray;">CSS3</span></b></sub>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /><br>
-    <sub><b><span style="color:gray;">Bootstrap</span></b></sub>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>
-    <sub><b><span style="color:gray;">MySQL</span></b></sub>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /><br>
-    <sub><b><span style="color:gray;">Figma</span></b></sub>
-  </a>
-</p>
+<div align="center">
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"><br>
+    <sub><b><span style="color:#808080;">JavaScript</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"><br>
+    <sub><b><span style="color:#808080;">Node.js</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"><br>
+    <sub><b><span style="color:#808080;">PHP</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"><br>
+    <sub><b><span style="color:#808080;">Java</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"><br>
+    <sub><b><span style="color:#808080;">HTML5</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"><br>
+    <sub><b><span style="color:#808080;">CSS3</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"><br>
+    <sub><b><span style="color:#808080;">Bootstrap</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"><br>
+    <sub><b><span style="color:#808080;">MySQL</span></b></sub>
+  </div>
+  <div style="display:inline-block; text-align:center; margin:10px;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"><br>
+    <sub><b><span style="color:#808080;">Figma</span></b></sub>
+  </div>
+</div>
 
 
 
