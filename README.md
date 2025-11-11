@@ -1,33 +1,32 @@
 <!-- Optional Banner (Keep commented out unless you want it) -->
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
-<h1 align="center">Hi 👋, I'm Tran Huu Dat</h1>
-<h3 align="center">I'm a Software Engineering student at Ton Duc Thang University (TDTU) from Vietnam.</h3>
+<h1 align="center">Hello everyone, I'm Andrei Ochangco</h1>
+<h3 align="center">I'm a Information Technology student at Saint Louis College from Philippines.</h3>
 
 <img align="right" alt="Coding Animation" width="400" src="img/type.gif"> 
 <!-- Make sure 'type.gif' exists in your repository or replace the src with a valid URL -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndreiOchangco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <!-- Optional Giphy Embed (Keep commented out unless you want it) -->
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vtm4qejJIl1ERPIrbA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/knife-crab-pikaole-vtm4qejJIl1ERPIrbA">via GIPHY</a></p> -->
 
 Here's a little bit about me:
-- 🌱 I’m currently deepening my knowledge in **Web Development**.
-- 👯 I’m open to collaborating on **Web Development projects**.
-- 📫 How to reach me: **huudat.peashooer@gmail.com**
+- 🌱 I’m currently deepening my knowledge in **Web Development and Web Designing**.
+- 👯 I’m open to short/long collaborating on **Web Development/Designing Projects**.
+- 📫 How to reach me: **andrei.ochangco@gmail.com**
 <!-- - ⚡ Fun fact: I identify with the ISTP personality type. -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Twitter -->
-  <!-- <a href="https://twitter.com/Rst_zsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a> -->
+
+  <a href="https://twitter.com/Rst_zsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   
   <a href="https://www.facebook.com/tranhuudat.10112004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/huudat.2k4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   
-  <!-- Discord -->
-  <!-- <a href="https://discord.gg/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> -->
+  <a href="https://discord.gg/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
