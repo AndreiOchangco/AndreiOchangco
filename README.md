@@ -37,7 +37,7 @@ Here's a little bit about me:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -58,12 +58,6 @@ Here's a little bit about me:
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
       </a>
@@ -75,26 +69,14 @@ Here's a little bit about me:
       </a>
       <br>HTML5
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
@@ -115,6 +97,7 @@ Here's a little bit about me:
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 My Contributions Snake
