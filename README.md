@@ -95,14 +95,6 @@ Here's a little bit about me:
   </a>
 </p>
 
-<p align="center">
-  <!-- WAKATIME STATS -->
-  <a href="https://github.com/AndreiOchangco/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreiOchangco&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
-  </a>
-</p>
-
-
 
 
 ### 🏆 Academic Projects:
