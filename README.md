@@ -38,49 +38,41 @@ Here's a little bit about me:
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>
-    JavaScript
+    <sub><b><span style="color:gray;">JavaScript</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /><br>
-    Node.js
+    <sub><b><span style="color:gray;">Node.js</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br>
-    PHP
+    <sub><b><span style="color:gray;">PHP</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
-    Java
+    <sub><b><span style="color:gray;">Java</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>
-    HTML5
+    <sub><b><span style="color:gray;">HTML5</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /><br>
-    CSS3
+    <sub><b><span style="color:gray;">CSS3</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /><br>
-    Bootstrap
+    <sub><b><span style="color:gray;">Bootstrap</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>
-    MySQL
+    <sub><b><span style="color:gray;">MySQL</span></b></sub>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /><br>
-    Figma
+    <sub><b><span style="color:gray;">Figma</span></b></sub>
   </a>
 </p>
 
