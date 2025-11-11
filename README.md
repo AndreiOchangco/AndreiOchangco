@@ -52,12 +52,6 @@ Here's a little bit about me:
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
       </a>
