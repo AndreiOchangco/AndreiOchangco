@@ -127,7 +127,7 @@ Here's a little bit about me:
 <strong>Omacha Shop - Full-stack Toy Store</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
-<p>A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.</p>
+<p>A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features a comprehensive online shopping experience for customers and a robust administration system for efficient management.</p>
 <ul>
 <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap</li>
 <li><strong>Backend:</strong> PHP</li>
@@ -142,7 +142,7 @@ Here's a little bit about me:
 <br>
 
 <details>
-<summary><strong>📱 Mobile Development (Android - Java)</strong></summary>
+<summary><strong>📱 Mobile Development</strong></summary>
 <br>
 <div style="padding-left: 20px;">
 
@@ -154,9 +154,8 @@ Here's a little bit about me:
 <div style="padding-left: 40px; padding-top: 10px;">
 <p>Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.</p>
 <ul>
-<li><strong>Platform:</strong> Android</li>
-<li><strong>Language:</strong> Java</li>
-<li><strong>Database:</strong> Firebase Firestore</li>
+<li><strong>Platform:</strong> Android and IOS</li>
+<li><strong>Language:</strong> Node.js and React Native</li>
 </ul>
 </div>
 </details>
