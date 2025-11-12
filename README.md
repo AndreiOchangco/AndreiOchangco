@@ -106,23 +106,6 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="BrickShop Logo"  src="img/logo_brickshop_resized.png" align="center">
-<strong>BrickShop - E-commerce for Building Blocks</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.</p>
-<ul>
-<li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)</li>
-<li><strong>Backend:</strong> Node.js, Express.js</li>
-<li><strong>Database:</strong> MySQL</li>
-</ul>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>
 <img alt="ZStyle Logo"  src="img/logo_zstyle_resized.png" align="center">
 <strong>ZStyle - Foundational E-commerce Website</strong>
 </summary>
@@ -180,81 +163,6 @@ Here's a little bit about me:
 
 </div>
 </details>
-
-<br>
-
-<details>
-<summary><strong>🧠 Machine Learning</strong></summary>
-<br>
-<div style="padding-left: 20px;">
-
-<details>
-<summary>
-<img alt="Handwriting Signature Recognition"  src="img/logo_handwriting_resized.png" align="center">
-<strong>Handwriting Signature Recognition</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.</p>
-<ul>
-<li><strong>Language:</strong> Python</li>
-<li><strong>Libraries/Frameworks:</strong> TensorFlow, Keras, scikit-learn, OpenCV</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
-
----
-
-### 🚀 Personal Projects & Live Demos (GitHub Pages):
-
-<br>
-
-<details>
-<summary>
-<img alt="ANIME.TV Logo"  src="img/logo_animetv_resized.png" align="center">
-<strong>ANIME.TV - World of Anime & Manga</strong>
-</summary>
-<ul>
-    <li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/anime.tv/">https://tranhuudat2004.github.io/anime.tv/</a></li>
-    <li><strong>💡 Key Features:</strong> Shows detailed information about an anime series, image/GIF galleries, manga reader.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages.</li>
-</ul>
-</details>
-
-<br>
-
-<details>
-<summary>
-<img alt="Mymusic Logo"  src="img/logo_mymusic_resized.png" align="center">
-<strong>MyMusic Player Interface</strong>
-</summary>
-<ul>
-    <li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic-demo/">https://tranhuudat2004.github.io/mymusic-demo/</a></li>
-    <li><strong>💡 Key Features:</strong> Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6+).</li>
-</ul>
-</details>
-
-<br>
-
-<details>
-<summary>
-<img alt="Puzzle Logo"  src="img/logo_puzzle_resized.png" align="center">
-<strong>Puzzle & Image Tools Suite</strong>
-</summary>
-<ul>
-    <li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/games_tools/">https://tranhuudat2004.github.io/games_tools/</a></li>
-    <li><strong>💡 Key Features:</strong> Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Bootstrap.</li>
-</ul>
-</details>
-
-
 
 ---
 
