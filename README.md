@@ -258,7 +258,7 @@ Here's a little bit about me:
 
 ---
 
-*   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/TranHuuDat2004?tab=repositories).
+*   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/AndreiOchangco?tab=repositories).
 
 ---
 
