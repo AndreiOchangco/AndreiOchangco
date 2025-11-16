@@ -79,10 +79,10 @@ Here's a little bit about me:
 ## 🚀 My Github Stats
 
 <p align="center">
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
+  <a href="https://github.com/AndreiOchangco/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=AndreiOchangco&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats"> <!-- Corrected link wrapper for consistency -->
+  <a href="https://github.com/AndreiOchangco/github-readme-stats"> <!-- Corrected link wrapper for consistency -->
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreiOchangco&theme=radical&layout=compact&langs_count=8&card_width=320" /> 
     <!-- Corrected username=TranHuuDat2004 -->
   </a>
