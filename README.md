@@ -19,7 +19,7 @@ Here's a little bit about me:
 <!-- - ⚡ Fun fact: I identify with the ISTP personality type. -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" display="flex" flex-direction="row">
+<p align="left">
   <a href="https://www.facebook.com/andrei.ochangco.2025/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
