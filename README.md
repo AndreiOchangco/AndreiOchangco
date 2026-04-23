@@ -108,7 +108,7 @@ Here's a little bit about me:
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="https://www.djangoproject.com/"  target="_blank">
+      <a href="https://github.com/PowerShell"  target="_blank">
         <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell.svg" alt="Django" width="40" height="40"/>
       </a>
       <br>Powershell
