@@ -95,6 +95,24 @@ Here's a little bit about me:
       </a>
       <br>Figma
     </td>
+    <td align="center" width="96">
+      <a href="https://react.dev/"  target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/"  target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/"  target="_blank">
+        <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_powershell.svg" alt="Django" width="40" height="40"/>
+      </a>
+      <br>Powershell
+    </td>
   </tr>
 </table>
 
